@@ -7,12 +7,13 @@ Simple WhatsApp Bot
 ## FOR TERMUX/UBUNTU/SSH USER
 
 ```bash
-apt update && apt upgrade
+apt update
+apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/BakaBOTZ/wabot-aq
 cd wabot-aq
 npm install
 npm update
@@ -28,7 +29,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/BakaBOTZ/wabot-aq
 cd wabot-aq
 npm install
 npm update
@@ -133,7 +134,9 @@ conn.logger.level = 'debug'
 
 #### Most Active Contributor : [`ariffb25`](https://github.com/ariffb25)
 
-#### 2nd Most Active Contributor: [`Ftwrr`](https://github.com/Ftwrr)
+#### 2nd Most Active Contributor: [`RakuChan`](https://github.com/BakaBOTZ)
+
+#### 3nd Most Active Contributor: [`Ftwrr`](https://github.com/Ftwrr)
 
 
 NOTE: This project will not maintained after `27 June 2021`, that means no update. Feel free to anyone to continue this project :)
